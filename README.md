@@ -47,7 +47,7 @@ graph TB
     Embed[SentenceTransformer\nall-MiniLM-L6-v2\n384 dimensions]
     PDF[PyMuPDF\npage text + word bounding boxes]
     Groq[Groq API\nconfigurable chat model]
-    Files[Local PDF storage\nuploads/{document_id}.pdf]
+    Files[Local PDF storage\nuploads/document-id.pdf]
 
     Browser --> Flask
     Flask --> Auth
