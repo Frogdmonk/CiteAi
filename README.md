@@ -173,17 +173,14 @@ Coordinates remain in PDF page space. The frontend scales them against the PDF.j
 
 ## Screenshots
 
-Add the captured workspace image to the repository at:
+The live workspace includes the document sidebar, chat composer, source cards, resizable divider, PDF viewer, zoom controls, and mobile Chat/PDF switching. To add screenshots to a GitHub clone, place captured images in `docs/` and reference them with a relative Markdown image link, for example:
 
-```text
-docs/citeai-workspace.png
+```markdown
+![CiteAI authenticated workspace](docs/citeai-workspace.png)
+![CiteAI mobile workspace](docs/citeai-mobile.png)
 ```
 
-Then this README will render it on GitHub:
-
-![CiteAI authenticated workspace](docs/citeai-workspace.png)
-
-The workspace screenshot should show the document sidebar, chat composer, source cards, resizable divider, and PDF viewer. A second mobile screenshot can be added as `docs/citeai-mobile.png`.
+The repository intentionally does not reference files that are not committed, so GitHub will not show a broken image or 404 path.
 
 ## Local Setup
 
