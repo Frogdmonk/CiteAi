@@ -172,15 +172,13 @@ Coordinates remain in PDF page space. The frontend scales them against the PDF.j
 ```
 
 ## Screenshots
+<img width="1770" height="825" alt="image" src="https://github.com/user-attachments/assets/4f1ffe9a-45b0-44c7-9d26-5c03b5a0203b" />
 
-The live workspace includes the document sidebar, chat composer, source cards, resizable divider, PDF viewer, zoom controls, and mobile Chat/PDF switching. To add screenshots to a GitHub clone, place captured images in `docs/` and reference them with a relative Markdown image link, for example:
+<img width="1142" height="869" alt="image" src="https://github.com/user-attachments/assets/b932a785-e602-48b3-8d61-bef17000cf48" />
 
-```markdown
-![CiteAI authenticated workspace](docs/citeai-workspace.png)
-![CiteAI mobile workspace](docs/citeai-mobile.png)
-```
+<img width="1410" height="678" alt="image" src="https://github.com/user-attachments/assets/8780b8ac-b456-450a-96b7-110c5432fdcd" />
 
-The repository intentionally does not reference files that are not committed, so GitHub will not show a broken image or 404 path.
+
 
 ## Local Setup
 
